@@ -45,7 +45,7 @@ Each project and problem includes:
 - Python beginners  
 - Students practicing coding problems  
 - Learners preparing for basic coding interviews  
-- Anyone starting LeetCode (Easy level)  
+- Anyone starting LeetCode (Easy to Intermediate)  
 
 ---
 
